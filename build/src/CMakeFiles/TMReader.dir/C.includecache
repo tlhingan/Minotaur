@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/ConfigUtils/configUtils.h
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/Socket_Comms/socket_comms.h
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/TMReader.c
+tm_reader.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+unistd.h
+-
+string.h
+-
+signal.h
+-
+malloc.h
+-
+inttypes.h
+-
+Socket_Comms/socket_comms.h
+/root/Subversion/root/internal/tlhingan/NewTMR/src/Socket_Comms/socket_comms.h
+ConfigUtils/configUtils.h
+/root/Subversion/root/internal/tlhingan/NewTMR/src/ConfigUtils/configUtils.h
+

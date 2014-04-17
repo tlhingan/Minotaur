@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/ConfigUtils/configUtils.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+configUtils.h
+/root/Subversion/root/internal/tlhingan/NewTMR/src/ConfigUtils/configUtils.h
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/ConfigUtils/configUtils.h
+

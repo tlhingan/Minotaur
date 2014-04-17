@@ -1,0 +1,1 @@
+/usr/bin/gcc  -Wall -g    CMakeFiles/TMReader.dir/TMReader.c.o  -o TMReader -rdynamic -L/ConfigUtils -L/Socket_Comms -lmercuryapi -lltkc -lltkctm ConfigUtils/libCONFIGUTILS.so Socket_Comms/libSOCKETS.so -Wl,-rpath,/ConfigUtils:/Socket_Comms:/root/Subversion/root/internal/tlhingan/NewTMR/build/src/ConfigUtils:/root/Subversion/root/internal/tlhingan/NewTMR/build/src/Socket_Comms 

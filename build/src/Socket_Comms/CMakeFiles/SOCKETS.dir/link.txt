@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -g   -shared -Wl,-soname,libSOCKETS.so -o libSOCKETS.so CMakeFiles/SOCKETS.dir/socket_comms.c.o 

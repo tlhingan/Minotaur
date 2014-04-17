@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -g   -shared -Wl,-soname,libCONFIGUTILS.so -o libCONFIGUTILS.so CMakeFiles/CONFIGUTILS.dir/configUtils.c.o 

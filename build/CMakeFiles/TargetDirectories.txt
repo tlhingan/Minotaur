@@ -1,0 +1,3 @@
+/root/Subversion/root/internal/tlhingan/NewTMR/build/src/ConfigUtils/CMakeFiles/CONFIGUTILS.dir
+/root/Subversion/root/internal/tlhingan/NewTMR/build/src/Socket_Comms/CMakeFiles/SOCKETS.dir
+/root/Subversion/root/internal/tlhingan/NewTMR/build/src/CMakeFiles/TMReader.dir

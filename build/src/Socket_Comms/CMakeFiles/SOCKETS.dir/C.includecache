@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/Socket_Comms/socket_comms.c
+netdb.h
+-
+errno.h
+-
+stdlib.h
+-
+unistd.h
+-
+netdb.h
+-
+stdio.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+string.h
+-
+socket_comms.h
+/root/Subversion/root/internal/tlhingan/NewTMR/src/Socket_Comms/socket_comms.h
+
+/root/Subversion/root/internal/tlhingan/NewTMR/src/Socket_Comms/socket_comms.h
+
